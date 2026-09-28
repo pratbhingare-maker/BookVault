@@ -1,0 +1,26 @@
+[
+    {
+        "id": "B001",
+        "title": "Python Programming",
+        "author": "John Smith",
+        "category": "Programming",
+        "quantity": 3,
+        "available": 3
+    },
+    {
+        "id": "B002",
+        "title": "Calculus",
+        "author": "George B. Thomas",
+        "category": "Mathematics",
+        "quantity": 4,
+        "available": 4
+    },
+    {
+        "id": "B003",
+        "title": "Grammer",
+        "author": "Michael Swan",
+        "category": "English",
+        "quantity": 2,
+        "available": 2
+    }
+]

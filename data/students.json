@@ -1,0 +1,20 @@
+[
+    {
+        "id": "5001",
+        "name": "Rahul Sharma",
+        "course": "CSE",
+        "email": "rahul@gmail.com"
+    },
+    {
+        "id": "5002",
+        "name": "Rohan Dua",
+        "course": "ECE",
+        "email": "rohan@gmail.com"
+    },
+    {
+        "id": "5003",
+        "name": "Raj Hasu",
+        "course": "Mechanical",
+        "email": "raj@gmail.com"
+    }
+]

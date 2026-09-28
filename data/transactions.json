@@ -1,0 +1,42 @@
+[
+    {
+        "transaction_id": 1,
+        "student_id": "5001",
+        "book_id": "B001",
+        "issue_date": "2026-09-25",
+        "due_date": "2026-10-02",
+        "return_date": "2026-09-25",
+        "fine": 0,
+        "status": "Returned"
+    },
+    {
+        "transaction_id": 2,
+        "student_id": "5002",
+        "book_id": "B002",
+        "issue_date": "2026-09-25",
+        "due_date": "2026-10-02",
+        "return_date": "2026-09-25",
+        "fine": 0,
+        "status": "Returned"
+    },
+    {
+        "transaction_id": 3,
+        "student_id": "5002",
+        "book_id": "B002",
+        "issue_date": "2026-09-25",
+        "due_date": "2026-10-02",
+        "return_date": "2026-09-25",
+        "fine": 0,
+        "status": "Returned"
+    },
+    {
+        "transaction_id": 4,
+        "student_id": "5001",
+        "book_id": "B001",
+        "issue_date": "2026-09-25",
+        "due_date": "2026-10-02",
+        "return_date": "2026-09-25",
+        "fine": 0,
+        "status": "Returned"
+    }
+]
