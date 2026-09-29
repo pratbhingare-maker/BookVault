@@ -218,6 +218,25 @@ The main components include:
 The component diagram is shown below.
 
 ![Component Diagram](../docs/Diagram/component_diagram.png)
+## 10.1 Class Diagram
+
+The class diagram represents the main classes used in the Library Management System. It shows the attributes and methods of the `Book`, `Student`, `Transaction`, and `Report` classes.
+
+![Class Diagram](../docs/Diagram/class_diagram.png)
+
+
+## 10.2 Sequence Diagram
+
+The sequence diagram illustrates the interaction between the user, application modules, and data storage during a library transaction.
+
+![Sequence Diagram](../docs/Diagram/sequence_diagram.png)
+
+
+## 10.3 ER / Storage Design
+
+The ER / Storage Design shows the main entities of the Library Management System and how their information is represented and stored using JSON files.
+
+![ER / Storage Design](../docs/Diagram/er_storage_diagram.png)
 
 
 # 11. Implementation
