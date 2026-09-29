@@ -54,7 +54,7 @@ The project follows a modular structure where different responsibilities are sep
 - GitHub
 - Terminal / Command Prompt
 
-## Project Structure
+**## Project Structure**
 
 ```text
 project/
@@ -73,5 +73,15 @@ project/
 │   ├── students.json
 │   └── transactions.json
 │
+├── docs/
+│   ├── Diagram/
+│   ├── Documentation/
+│   └── Screenshot/
+│
+├── report/
+│   ├── final_report.md
+│   └── BUILDVAULT.pdf
+│
 ├── statement.md
-└── README.md
+├── README.md
+└── .gitignore
